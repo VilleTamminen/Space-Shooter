@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c866ab12810761046b94379b1a920158
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {fileID: 4156328226046165163, guid: 8a6e4f30d0b95864e80e349cd5346d00,
+      type: 3}
+  - healBoost: {fileID: 12326992436574211, guid: fe02f5d9f42ad214a9a2276e0e8aa2b5,
+      type: 3}
+  - shieldBoost: {fileID: 9173063081823095938, guid: 479320fe35f8d494686b34172808a3a9,
+      type: 3}
+  - superBoost: {fileID: 1002774978919808213, guid: 4861440d963e2d34e8568cf83e84c6af,
+      type: 3}
+  - rocketPickUp: {fileID: 7290950753225307928, guid: 6a027ba781ca369488a5279043dc627a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
